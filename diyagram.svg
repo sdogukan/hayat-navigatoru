@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="470" viewBox="0 0 800 470" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif">
+<defs><marker id="ar" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M2 1L8 5L2 9" fill="none" stroke="#6B6A66" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></marker></defs>
+<rect width="800" height="470" rx="18" fill="#FBFAF7"/>
+<text x="400" y="40" text-anchor="middle" font-size="20" font-weight="600" fill="#2C2C2A">Hayat Navigatörü · nasıl çalışır</text>
+<text x="400" y="62" text-anchor="middle" font-size="13" fill="#6B6A66">hayatını alan alan, ama tek bir yerden yönet</text>
+<rect x="40" y="90" width="720" height="62" rx="14" fill="#F1EFE8" stroke="#B4B2A9"/>
+<text x="400" y="113" text-anchor="middle" font-size="14" font-weight="600" fill="#2C2C2A">Hayatından gelen sinyaller</text>
+<text x="400" y="136" text-anchor="middle" font-size="12" fill="#444441">mesajlar · takvim · işlerin · sohbetlerin · sesli notların</text>
+<path d="M400 152 L400 180" fill="none" stroke="#6B6A66" stroke-width="1.5" marker-end="url(#ar)"/>
+<rect x="40" y="184" width="720" height="100" rx="16" fill="#EEEDFE" stroke="#534AB7" stroke-width="1.2"/>
+<text x="400" y="210" text-anchor="middle" font-size="15" font-weight="600" fill="#26215C">Orkestratör</text>
+<text x="400" y="234" text-anchor="middle" font-size="12" fill="#3C3489">her sinyali doğru alana götürür · alanlar arası bağı tutar · bu hafta neyin öncelikli olduğunu söyler</text>
+<text x="400" y="252" text-anchor="middle" font-size="12" fill="#3C3489">her sabah tek BUGUN.md yazar</text>
+<text x="400" y="272" text-anchor="middle" font-size="12" fill="#534AB7">alanın içine girmez · senin yerine karar vermez · hiçbir hesaba yazmaz</text>
+<g stroke="#6B6A66" stroke-width="1.5" fill="none"><path d="M130 284 L130 314" marker-end="url(#ar)"/><path d="M310 284 L310 314" marker-end="url(#ar)"/><path d="M490 284 L490 314" marker-end="url(#ar)"/><path d="M670 284 L670 314" marker-end="url(#ar)"/></g>
+<g fill="#E1F5EE" stroke="#1D9E75"><rect x="45" y="318" width="170" height="86" rx="12"/><rect x="225" y="318" width="170" height="86" rx="12"/><rect x="405" y="318" width="170" height="86" rx="12"/><rect x="585" y="318" width="170" height="86" rx="12"/></g>
+<g font-size="15" font-weight="600" fill="#04342C" text-anchor="middle"><text x="130" y="344">Kariyer</text><text x="310" y="344">Para</text><text x="490" y="344">Sağlık</text><text x="670" y="344">İnsanlar</text></g>
+<g font-size="12" fill="#0F6E56" text-anchor="middle">
+<text x="130" y="366">kimim, ne yapıyorum,</text><text x="130" y="384">nereye gidiyorum</text>
+<text x="310" y="366">neredeyim, "yeter" ne,</text><text x="310" y="384">aradaki yol</text>
+<text x="490" y="366">enerjim işimi</text><text x="490" y="384">taşıyor mu</text>
+<text x="670" y="366">beni taşıyan ilişkileri</text><text x="670" y="384">besliyor muyum</text></g>
+<text x="400" y="432" text-anchor="middle" font-size="12" fill="#6B6A66">Her alan aynı kalıp: kim / ne / nereye → plan → günlük döngü. İlk açılışta alanı sen seçersin.</text>
+<text x="400" y="452" text-anchor="middle" font-size="12" fill="#6B6A66">Alan eklenir, çıkarılır; orkestratör değişmez.</text>
+</svg>
