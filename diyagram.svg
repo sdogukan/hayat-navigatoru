@@ -12,14 +12,15 @@
 <text x="400" y="234" text-anchor="middle" font-size="12" fill="#3C3489">her sinyali doğru alana götürür · alanlar arası bağı tutar · bu hafta neyin öncelikli olduğunu söyler</text>
 <text x="400" y="252" text-anchor="middle" font-size="12" fill="#3C3489">her sabah tek BUGUN.md yazar</text>
 <text x="400" y="272" text-anchor="middle" font-size="12" fill="#534AB7">alanın içine girmez · senin yerine karar vermez · hiçbir hesaba yazmaz</text>
-<g stroke="#6B6A66" stroke-width="1.5" fill="none"><path d="M130 284 L130 314" marker-end="url(#ar)"/><path d="M310 284 L310 314" marker-end="url(#ar)"/><path d="M490 284 L490 314" marker-end="url(#ar)"/><path d="M670 284 L670 314" marker-end="url(#ar)"/></g>
-<g fill="#E1F5EE" stroke="#1D9E75"><rect x="45" y="318" width="170" height="86" rx="12"/><rect x="225" y="318" width="170" height="86" rx="12"/><rect x="405" y="318" width="170" height="86" rx="12"/><rect x="585" y="318" width="170" height="86" rx="12"/></g>
-<g font-size="15" font-weight="600" fill="#04342C" text-anchor="middle"><text x="130" y="344">Kariyer</text><text x="310" y="344">Para</text><text x="490" y="344">Sağlık</text><text x="670" y="344">İnsanlar</text></g>
-<g font-size="12" fill="#0F6E56" text-anchor="middle">
-<text x="130" y="366">kimim, ne yapıyorum,</text><text x="130" y="384">nereye gidiyorum</text>
-<text x="310" y="366">neredeyim, "yeter" ne,</text><text x="310" y="384">aradaki yol</text>
-<text x="490" y="366">enerjim işimi</text><text x="490" y="384">taşıyor mu</text>
-<text x="670" y="366">beni taşıyan ilişkileri</text><text x="670" y="384">besliyor muyum</text></g>
+<g stroke="#6B6A66" stroke-width="1.5" fill="none"><path d="M110 284 L110 314" marker-end="url(#ar)"/><path d="M256 284 L256 314" marker-end="url(#ar)"/><path d="M402 284 L402 314" marker-end="url(#ar)"/><path d="M548 284 L548 314" marker-end="url(#ar)"/><path d="M694 284 L694 314" marker-end="url(#ar)"/></g>
+<g fill="#E1F5EE" stroke="#1D9E75"><rect x="42" y="318" width="136" height="86" rx="12"/><rect x="188" y="318" width="136" height="86" rx="12"/><rect x="334" y="318" width="136" height="86" rx="12"/><rect x="480" y="318" width="136" height="86" rx="12"/><rect x="626" y="318" width="136" height="86" rx="12" stroke-dasharray="4 3"/></g>
+<g font-size="14" font-weight="600" fill="#04342C" text-anchor="middle"><text x="110" y="342">Kariyer</text><text x="256" y="342">Para</text><text x="402" y="342">Sağlık</text><text x="548" y="342">İnsanlar</text><text x="694" y="342">İnanç ve anlam</text></g>
+<g font-size="11" fill="#0F6E56" text-anchor="middle">
+<text x="110" y="364">kimim, ne yapıyorum,</text><text x="110" y="380">nereye gidiyorum</text>
+<text x="256" y="364">neredeyim, "yeter" ne,</text><text x="256" y="380">aradaki yol</text>
+<text x="402" y="364">enerjim işimi</text><text x="402" y="380">taşıyor mu</text>
+<text x="548" y="364">beni taşıyan ilişkileri</text><text x="548" y="380">besliyor muyum</text>
+<text x="694" y="364">neye inanıyorum,</text><text x="694" y="380">nasıl yaşıyorum · isteğe bağlı</text></g>
 <text x="400" y="432" text-anchor="middle" font-size="12" fill="#6B6A66">Her alan aynı kalıp: kim / ne / nereye → plan → günlük döngü. İlk açılışta alanı sen seçersin.</text>
 <text x="400" y="452" text-anchor="middle" font-size="12" fill="#6B6A66">Alan eklenir, çıkarılır; orkestratör değişmez.</text>
 </svg>

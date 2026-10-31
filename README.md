@@ -6,7 +6,7 @@
 
 ## Nasıl çalışır
 
-- **Alanlar:** Kariyer, Para, Sağlık, İnsanlar. Her biri kendi klasörü, kendi kuralları ve kendi günlük dosyasıyla çalışır; hepsi aynı kalıbı kullanır: kim / ne / nereye → plan → günlük döngü.
+- **Alanlar:** Kariyer, Para, Sağlık, İnsanlar ve isteğe bağlı İnanç ve anlam. Her biri kendi klasörü, kendi kuralları ve kendi günlük dosyasıyla çalışır; hepsi aynı kalıbı kullanır: kim / ne / nereye → plan → günlük döngü.
 - **Orkestratör:** hayatından gelen sinyalleri (mesaj, takvim, iş, sohbet, sesli not) doğru alana götürür, alanlar arasındaki bağı tutar, bu hafta neyin öncelikli olduğunu söyler ve her sabah **tek bir BUGUN.md** yazar.
 - **Sınır:** orkestratör alanın içine girmez, senin yerine karar vermez, hiçbir hesaba yazmaz, para harcamaz.
 
@@ -16,7 +16,7 @@
 |---|---|
 | Hayatın alanlarını tek yerden görmek | Hayat koçluğu, terapi, motivasyon |
 | Sinyalleri toplayıp doğru yere koymak | Mesajlarına senin adına cevap vermek |
-| Alanlar arası bağı göstermek (iş → para → ev) | Tıbbi, finansal, hukuki tavsiye |
+| Alanlar arası bağı göstermek (iş → para → ev) | Tıbbi, finansal, hukuki tavsiye; dini hüküm |
 | Her sabah tek dosya | Seni takip eden bir uygulama |
 
 ## Nasıl kullanılır
@@ -30,7 +30,7 @@ Kariyer alanının hazır yöntemi: [kariyer-navigatoru](https://github.com/sdog
 
 ## İlkeler
 
-Yalan yok, şişirme yok · önce plan, açık "yap" ile eylem · kişinin katkısı AI'ınkinden ayrı · önce diyagram · günde tek küçük iş · özel hayat ayrıntısı dosyaya girmez, yalnız alanın ihtiyacı kadar · uzman gereken yerde "uzmana git".
+Yalan yok, şişirme yok · önce plan, açık "yap" ile eylem · kişinin katkısı AI'ınkinden ayrı · önce diyagram · günde tek küçük iş · özel hayat ayrıntısı dosyaya girmez, yalnız alanın ihtiyacı kadar · uzman gereken yerde "uzmana git" · inançta hüküm yok, yargı yok; geleneği kullanıcı seçer.
 
 ## Klasör yapısı
 
@@ -38,7 +38,7 @@ Yalan yok, şişirme yok · önce plan, açık "yap" ile eylem · kişinin katk�
 hayat/
 ├── overview.md · HARITA.md · BUGUN.md · HAFTA.md · gunluk.md
 ├── sinyaller/                      # kaynaklardan gelen, alana yönlendirilen tarihli notlar
-├── kariyer/   para/   saglik/   insanlar/
+├── kariyer/   para/   saglik/   insanlar/   inanc/ (isteğe bağlı)
     (her biri kendi overview.md, TAKVIM.md ve 00–05 klasörleriyle)
 ```
 
