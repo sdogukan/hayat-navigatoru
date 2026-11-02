@@ -1,26 +1,42 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="800" height="470" viewBox="0 0 800 470" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="628" viewBox="0 0 800 628" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" role="img" aria-labelledby="title desc">
+<title id="title">Hayat Navigatörü · altı alan, tek günlük giriş</title>
+<desc id="desc">İsteğe bağlı kaynaklardan veya sohbetten gelen sinyaller orkestratöre ulaşır. Kullanıcı altı alandan birini seçer. Tek BUGUN.md ve HAFTA.md ile öğren, küçük dene, ölç, karar ver döngüsü yürütülür.</desc>
 <defs><marker id="ar" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M2 1L8 5L2 9" fill="none" stroke="#6B6A66" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/></marker></defs>
-<rect width="800" height="470" rx="18" fill="#FBFAF7"/>
+<rect width="800" height="628" rx="18" fill="#FBFAF7"/>
 <text x="400" y="40" text-anchor="middle" font-size="20" font-weight="600" fill="#2C2C2A">Hayat Navigatörü · nasıl çalışır</text>
 <text x="400" y="62" text-anchor="middle" font-size="13" fill="#6B6A66">hayatını alan alan, ama tek bir yerden yönet</text>
 <rect x="40" y="90" width="720" height="62" rx="14" fill="#F1EFE8" stroke="#B4B2A9"/>
-<text x="400" y="113" text-anchor="middle" font-size="14" font-weight="600" fill="#2C2C2A">Hayatından gelen sinyaller</text>
-<text x="400" y="136" text-anchor="middle" font-size="12" fill="#444441">mesajlar · takvim · işlerin · sohbetlerin · sesli notların</text>
+<text x="400" y="113" text-anchor="middle" font-size="14" font-weight="600" fill="#2C2C2A">Sohbetle başla · kaynaklar isteğe bağlı</text>
+<text x="400" y="136" text-anchor="middle" font-size="12" fill="#444441">mevcut durum · ne değişsin · ne belirsiz — dosya, şirket veya ürün şart değil</text>
 <path d="M400 152 L400 180" fill="none" stroke="#6B6A66" stroke-width="1.5" marker-end="url(#ar)"/>
-<rect x="40" y="184" width="720" height="100" rx="16" fill="#EEEDFE" stroke="#534AB7" stroke-width="1.2"/>
+<rect x="40" y="184" width="720" height="108" rx="16" fill="#EEEDFE" stroke="#534AB7" stroke-width="1.2"/>
 <text x="400" y="210" text-anchor="middle" font-size="15" font-weight="600" fill="#26215C">Orkestratör</text>
-<text x="400" y="234" text-anchor="middle" font-size="12" fill="#3C3489">her sinyali doğru alana götürür · alanlar arası bağı tutar · bu hafta neyin öncelikli olduğunu söyler</text>
-<text x="400" y="252" text-anchor="middle" font-size="12" fill="#3C3489">her sabah tek BUGUN.md yazar</text>
-<text x="400" y="272" text-anchor="middle" font-size="12" fill="#534AB7">alanın içine girmez · senin yerine karar vermez · hiçbir hesaba yazmaz</text>
-<g stroke="#6B6A66" stroke-width="1.5" fill="none"><path d="M110 284 L110 314" marker-end="url(#ar)"/><path d="M256 284 L256 314" marker-end="url(#ar)"/><path d="M402 284 L402 314" marker-end="url(#ar)"/><path d="M548 284 L548 314" marker-end="url(#ar)"/><path d="M694 284 L694 314" marker-end="url(#ar)"/></g>
-<g fill="#E1F5EE" stroke="#1D9E75"><rect x="42" y="318" width="136" height="86" rx="12"/><rect x="188" y="318" width="136" height="86" rx="12"/><rect x="334" y="318" width="136" height="86" rx="12"/><rect x="480" y="318" width="136" height="86" rx="12"/><rect x="626" y="318" width="136" height="86" rx="12" stroke-dasharray="4 3"/></g>
-<g font-size="14" font-weight="600" fill="#04342C" text-anchor="middle"><text x="110" y="342">Kariyer</text><text x="256" y="342">Para</text><text x="402" y="342">Sağlık</text><text x="548" y="342">İnsanlar</text><text x="694" y="342">İnanç ve anlam</text></g>
-<g font-size="11" fill="#0F6E56" text-anchor="middle">
-<text x="110" y="364">kimim, ne yapıyorum,</text><text x="110" y="380">nereye gidiyorum</text>
-<text x="256" y="364">neredeyim, "yeter" ne,</text><text x="256" y="380">aradaki yol</text>
-<text x="402" y="364">enerjim işimi</text><text x="402" y="380">taşıyor mu</text>
-<text x="548" y="364">beni taşıyan ilişkileri</text><text x="548" y="380">besliyor muyum</text>
-<text x="694" y="362">neye inanıyorum,</text><text x="694" y="377">nasıl yaşıyorum</text><text x="694" y="394" fill="#6B6A66">isteğe bağlı</text></g>
-<text x="400" y="432" text-anchor="middle" font-size="12" fill="#6B6A66">Her alan aynı kalıp: kim / ne / nereye → plan → günlük döngü. İlk açılışta alanı sen seçersin.</text>
-<text x="400" y="452" text-anchor="middle" font-size="12" fill="#6B6A66">Alan eklenir, çıkarılır; orkestratör değişmez.</text>
+<text x="400" y="234" text-anchor="middle" font-size="12" fill="#3C3489">sinyalleri doğru alana bağlar · bir işin ve kanıtın tek ana kaydı olur</text>
+<text x="400" y="256" text-anchor="middle" font-size="13" font-weight="600" fill="#3C3489">tek BUGUN.md · tek HAFTA.md · bir güncel odak</text>
+<text x="400" y="278" text-anchor="middle" font-size="12" fill="#534AB7">alan çalışmasını yürütür veya devreder · karar kullanıcıda kalır</text>
+<path d="M400 292 L400 318" fill="none" stroke="#6B6A66" stroke-width="1.5" marker-end="url(#ar)"/>
+<rect x="24" y="322" width="752" height="236" rx="16" fill="none" stroke="#B4B2A9"/>
+<text x="400" y="344" text-anchor="middle" font-size="12" fill="#6B6A66">Altı alan · yalnız seçtiğin alan açılır</text>
+<g fill="#E1F5EE" stroke="#1D9E75">
+<rect x="40" y="356" width="228" height="86" rx="12"/>
+<rect x="286" y="356" width="228" height="86" rx="12"/>
+<rect x="532" y="356" width="228" height="86" rx="12"/>
+<rect x="40" y="456" width="228" height="86" rx="12"/>
+<rect x="286" y="456" width="228" height="86" rx="12" stroke-dasharray="4 3"/>
+<rect x="532" y="456" width="228" height="86" rx="12"/>
+</g>
+<g font-size="14" font-weight="600" fill="#04342C" text-anchor="middle">
+<text x="154" y="382">Kariyer</text><text x="400" y="382">Para</text><text x="646" y="382">Sağlık</text>
+<text x="154" y="481">İnsanlar</text><text x="400" y="479">İnanç ve anlam</text><text x="646" y="481">İş ve Ürünler</text>
+</g>
+<g font-size="12" fill="#0F6E56" text-anchor="middle">
+<text x="154" y="405">kişisel gelişimim, katkılarım</text><text x="154" y="423">ve mesleki yönüm</text>
+<text x="400" y="405">kişisel finansım, güvence</text><text x="400" y="423">ve “yeter” tanımım</text>
+<text x="646" y="405">enerjim işimi ve hayatımı</text><text x="646" y="423">taşıyor mu</text>
+<text x="154" y="505">beni taşıyan ilişkileri</text><text x="154" y="523">besliyor muyum</text>
+<text x="400" y="501">inancım, anlamım, değerlerim</text><text x="400" y="524" font-size="11" fill="#6B6A66">isteğe bağlı</text>
+<text x="646" y="505">müşteriye değer</text><text x="646" y="523">ve iş / ürün sonuçları</text>
+</g>
+<text x="400" y="584" text-anchor="middle" font-size="13" font-weight="600" fill="#444441">Öğren → küçük dene → ölç → karar ver</text>
+<text x="400" y="607" text-anchor="middle" font-size="12" fill="#6B6A66">Sohbeti açtığında kayıt ve kanıttan devam et; kaynaklar ve diğer alanlar bekleyebilir.</text>
 </svg>
